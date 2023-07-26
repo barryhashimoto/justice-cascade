@@ -1,4 +1,5 @@
-# Description: uses chapter-wise citation data from States of Justice and calculates statistics from them.
+# Description: uses chapter-wise citation data from States of Justice and calculates statistics
+#   for the article, "The International Criminal Court and the Justice Cascade."
 # Author: Barry Hashimoto
 # Date: July 25, 2023
 
