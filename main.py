@@ -127,9 +127,7 @@ def citestats(path, title):
                 entries[i] = 'source: NGO publications'
 
             # Blogs
-            if 'blog' in entries[i]:
-                entries[i] = 'source: Blog posts'
-            if 'Blog' in entries[i]:
+            if 'blog' in entries[i].lower():
                 entries[i] = 'source: Blog posts'
 
             # Peer-reviewed secondary sources

@@ -24,61 +24,61 @@ Nouwen 2014 19
 Branch 2007 12
 Clark 2018 8
 Clark 2011 7
-Wierda and Otim 2011 6
 Nouwen and Werner 2010 6
-Schabas 2011a 4
+Wierda and Otim 2011 6
 The New Humanitarian 2005 4
+Schabas 2011a 4
 Nouwen 2011 3
-Akhavan 2010 3
 Akhavan 2005 3
-Kastner 2012 2
-Epstein 2017 2
-Peskin 2008 2
-Reuters 2006 2
+Akhavan 2010 3
 Cakaj 2016 2
-Gaeta 2004 2
+Peskin 2008 2
 Author interview with Lokwiya Francis 2
+Gaeta 2004 2
+Reuters 2006 2
 Arsanjani and Reisman 2005 2
-New Vision 2007 1
-Uganda government document 2007 1
-ICC press release July 2004 1
-Associated Press 2011 1
-New Vision 2006a 1
-Schabas 2008 1
-Sudan Tribune 2006 1
-ICC press release 2004c 1
-ICC web page 1
-Rome Statute 1
-Hurd 2007 1
-Reuters 2007 1
-Dolan 2011 1
-Amnesty International 2014 1
-Akhavan 2011 1
-Uganda government document Amnesty Act 1
+Epstein 2017 2
+Kastner 2012 2
 Schabas 2011b 1
-Author interview with Dolan Kampala 1
-Subotic 2009 1
-Du Plessis 2012 1
-Author interview with Lyandro Komakech 1
-ICC press release 2005 1
-Human Rights Watch (HRW) 2004 1
-The New Humanitarian 1
-New Vision 2006b 1
-Akhhavan 2005 1
-Author interview with JRP official 1
 Sudan Tribune 2007 1
+Dolan 2011 1
 OHCHR 2007 1
-US State Department government document 2001 1
+Author interview with Dolan Kampala 1
+Du Plessis 2012 1
+Human Rights Watch (HRW) 2004 1
+Reuters 2007 1
+Uganda government document Amnesty Act 1
+Sudan Tribune 2006 1
+Schabas 2008 1
+Hurd 2007 1
+Author interview with JRP official 1
+Uganda government document 2007 1
+Rome Statute 1
+Akhhavan 2005 1
+Akhavan 2011 1
 US Congress government document 1
 Allen and Vlassenroot 2010 1
+Amnesty International 2014 1
+New Vision 2007 1
+New Vision 2006a 1
+ICC press release 2004c 1
 ICC press release 2004b 1
+New Vision 2006b 1
+Associated Press 2011 1
+Author interview with Lyandro Komakech 1
+The New Humanitarian 1
+ICC press release July 2004 1
+Subotic 2009 1
+US State Department government document 2001 1
+ICC web page 1
+ICC press release 2005 1
 
 2. Citation counts to primary and secondary sources, by category:
 
 Peer-reviewed articles and books 114
 Newspaper and magazine articles 14
-Author's field interviews 5
 ICC statements 5
+Author's field interviews 5
 State acts and documents 4
 NGO publications 2
 Rome Statute 1
@@ -97,61 +97,61 @@ UNSC Resolution 1970 7
 ICC Appeals Chamber 2014a 6
 Stahn 2012 5
 Clarke and Koulen 2014 5
-Scheffer biography 2013 4
 Megret and Samson 2013 4
+Scheffer biography 2013 4
 ICC Pre-Trial Chamber I 2013b 4
-Aloisi 2013 3
 UNSC Resolution on Syria 3
-UNSC Resolution 1593 2
-ICC Pre-Trial Chamber I 2011 2
-Arbour 2014 2
+Aloisi 2013 3
 Elias and Quast 2003 2
-UNSC Resolution 1422 2
+ICC Libya Written Submissions (Admissibility Challenge) 2013 2
 Switzerland government document Gurber 2013 2
+Libya government letter from Ibrahim Dabbashi 2
+UNSC Resolution 1422 2
+HRW 2018 2
+UNSC document 2011c 2
 Akande 2012 2
 Libya government letter from Ibrahim Dabbashi 2011 2
-Libya government letter from Ibrahim Dabbashi 2
-UNSC document 2011c 2
-HRW 2018 2
-ICC Libya Written Submissions (Admissibility Challenge) 2013 2
-Glasius 2006 1
-Pitts 2014 1
-Jacobs Spreading the Jam blog 2019b 1
-Hopgood 2013 1
+UNSC Resolution 1593 2
+Arbour 2014 2
+ICC Pre-Trial Chamber I 2011 2
+ICC press release ICC-CPI 20190506 PR 1452 1
+Jollof News 2016 1
+African Union document 2011 1
+Clarker and Koulen 2014 1
+HRW 2016b 1
+Ferstman, Heller, Taylor, and Wilmshurt Chatham House document 2014 1
+Cryer 2006 1
+Gaeta 2009 1
 UNSC meeting minutes 1
+Arbour Crisis Group lecture 2011 1
+Pitts 2014 1
+ICC Agreed Minutes of the meeting between the OTP and Kenya 2009a 1
+ICJ Judgment in DRC v Belgium 1
+Kaye 2013 1
+Akande EJIL blog 2019 1
+Fairlie and Powderly 2011 1
+NPR article 2011 1
+Jacobs Spreading the Jam blog 2019b 1
+Lynch 2014 1
+Rome Statute  1
+Aljazeera 2011 1
+Walker 2014 1
+ICC Appeals Chamber 2014b 1
 ICC Pre-Trial Chamber II 2014(b) 1
 Nouwen and Werner 2010 1
-Arbour Crisis Group lecture 2011 1
-UN Secretary-General Report on Sri Lanka 31 March 2011 1
-Kaye 2013 1
-ICC Agreed Minutes of the meeting between the OTP and Kenya 2009a 1
-ICC press release ICC-CPI 20190506 PR 1452 1
-Walker 2014 1
-Heller Opinio Juris blog 2019a 1
-ICC Appeals Chamber 2014b 1
-HRW 2016b 1
-Gaeta 2009 1
-Rome Statute  1
-NPR article 2011 1
-Aljazeera 2011 1
 Kersten 2015a 1
-ICC Pre-Trial Chamber I Bashir 2009 1
-Papillon 2010 1
-US government document Title 22 Chapter 7401 1
-Jollof News 2016 1
-Cryer 2006 1
-Fairlie and Powderly 2011 1
-HRW 2013 1
-Kiyani Just Security blog 2019 1
-ICJ Judgment in DRC v Belgium 1
-Akande EJIL blog 2019 1
-African Union document 2011 1
-Lynch 2014 1
-Ferstman, Heller, Taylor, and Wilmshurt Chatham House document 2014 1
-ICC OTP Statement (televised) 2011 1
-ICC Appeals Chamber 2013 1
 Jacobs 2015 1
-Clarker and Koulen 2014 1
+ICC Pre-Trial Chamber I Bashir 2009 1
+Glasius 2006 1
+UN Secretary-General Report on Sri Lanka 31 March 2011 1
+Kiyani Just Security blog 2019 1
+Papillon 2010 1
+Heller Opinio Juris blog 2019a 1
+ICC Appeals Chamber 2013 1
+ICC OTP Statement (televised) 2011 1
+Hopgood 2013 1
+US government document Title 22 Chapter 7401 1
+HRW 2013 1
 
 2. Citation counts to primary and secondary sources, by category:
 
@@ -160,11 +160,11 @@ International organization documents 20
 ICC case law 16
 Rome Statute 12
 NGO publications 6
-Blog posts 4
 Biographies 4
+Blog posts 4
+ICC statements 3
 Newspaper and magazine articles 3
 State acts and documents 3
-ICC statements 3
 
 Total number of citations 114
 Number of unique sources cited 60
@@ -176,86 +176,86 @@ Chapter 5:
 
 Mueller 2014 10
 Simmons and Danner 2010 8
-Kenya government document Waki Commission 5
 ICC press release 2016b 5
+Kenya government document Waki Commission 5
 Moravcsik 2000 4
-Koremenos 2008 3
-Rome Statute 3
 Chapman and Chaudoin 2012 3
-Author interview with resident of Subukia IDP Camp, Nakuru, February 2016 2
+Rome Statute 3
+Koremenos 2008 3
 Lake and McCubbins 2006 2
-Powell 2013 2
+Author interview with resident of Subukia IDP Camp, Nakuru, February 2016 2
 Peskin 2009 2
 Wolf 2015 2
-Towns 2010 2
-Hurd 1999 2
-Ruteere and Wairur 2015 2
+Powell 2013 2
 Barnett and Finnemore 1999 2
-Kendall 2014 1
-Jalloh 2013 1
-Kenya Today 1
-Maliti IJM 2014a 1
-Kersten blog 2015b 1
-Maliti IJM 2015a 1
-Muller 2014 1
-Polity IV report on Authoritarian Trends 1
-Pollack 1997 1
-Koremomos, Lipson, and Snidal 2001 1
+Hurd 1999 2
+Towns 2010 2
+Ruteere and Wairur 2015 2
 Maliti IJM 2014c 1
-Maliti IJM 2014b 1
-ICC defense counsel document on behalf of Ruto 28 May 2012 1
-Hobbs 2015 1
-Mue and Gitau 2015 1
-Jalloh 2012 (citing to an opinion by Usacka) 1
-ICC Pre-Trial Chamber II 01/09-01(and 02)/11 1
-ICC press release 2015 1
-Maliti IJM 2014e 1
-Author interview with resident of Nakuru Pipeline IDP, Kenya February 2016 1
-Nielson and Tierney 2003 1
-UN News Centre 2014 1
-ICC Trial Chamber V 2013 1
-Verduzco 2015 1
-ICC Trial Chamber V(B) July  2014 1
-Vaubel 2006 1
-Keohane 1984 1
-Lynch Foreign Policy 2014 1
-ICC Trial Chamber V(A) Decision No ICC-01/09/11 5 April 2016 1
+Polity IV report on Authoritarian Trends 1
+Muller 2014 1
+ICC Trial Chamber V(B) March 2015 1
+Brown and Sriram 2012 1
+ICC speech Chief Prosecutor, Bensouda 2012 1
 Kersten EJIL blog 2019a 1
+ICC Trial Chamber V(A) Decision No ICC-01/09/11 5 April 2016 1
+Kersten blog 2015b 1
+ICC press release 2009b 1
+Keohane 1984 1
+Koremomos, Lipson, and Snidal 2001 1
+Mue and Gitau 2015 1
+Vaubel 2006 1
 Author interviews with unspecified persons in footnote 19 1
 Maliti IJM 2015b 1
-ECHR treaty 1
-ICC Trial Chamber V(A) 2016  1
-Labuda blog 2019 1
-McDougall JIC blog 2019 1
-Mueller 2014 (citing to Bensouda) 1
-Jalloh 2012  1
-Roach 2013 1
-Brown and Sriram 2012 1
-ICC press release 2013 1
 ICC press release December 2014 1
-Maliti IJM 2014d 1
-ICC Pre-Trial Chamber II 2010 1
-Kagwanja Kenya Human Rights Commission 1998 1
-Kratochwil and Ruggie 1986 1
-Bensouda blog 2012 1
-ICC speech Chief Prosecutor, Bensouda 2012 1
-Kenya government document (letter) 1
-ICC press release 2009b 1
-Kenya government document statement of parliamentarian James Gakuya 1
-ICC Trial Chamber V(B) March 2015 1
-Lynch 2014 1
-ICC Appeals Chamber 2011 1
-The New Visions NGO report 2013 1
-Hohn 2014 1
-ICC Pre-Trial Chamber 01/09-01/11 Kaul dissenting opinion 2011 1
-Johnston 2001 1
+Mueller 2014 (citing to Bensouda) 1
 Mutua 2009 1
+ICC defense counsel document on behalf of Ruto 28 May 2012 1
+ECHR treaty 1
+Maliti IJM 2014a 1
+Verduzco 2015 1
+Maliti IJM 2014e 1
+Lynch Foreign Policy 2014 1
+The New Visions NGO report 2013 1
+Kagwanja Kenya Human Rights Commission 1998 1
+Kenya government document (letter) 1
+ICC Trial Chamber V 2013 1
+Maliti IJM 2015a 1
+Lynch 2014 1
+Hobbs 2015 1
+Kenya government document statement of parliamentarian James Gakuya 1
+ICC Pre-Trial Chamber II 2010 1
+ICC Pre-Trial Chamber 01/09-01/11 Kaul dissenting opinion 2011 1
+ICC Trial Chamber V(B) July  2014 1
+Kendall 2014 1
+Maliti IJM 2014d 1
+Author interview with resident of Nakuru Pipeline IDP, Kenya February 2016 1
+Jalloh 2012  1
+ICC press release 2013 1
+Kratochwil and Ruggie 1986 1
+Jalloh 2013 1
+Pollack 1997 1
+McDougall JIC blog 2019 1
+Nielson and Tierney 2003 1
+Kenya Today 1
+Maliti IJM 2014b 1
+ICC Trial Chamber V(A) 2016  1
+UN News Centre 2014 1
+ICC Appeals Chamber 2011 1
+Bensouda blog 2012 1
+Roach 2013 1
+Hohn 2014 1
+ICC Pre-Trial Chamber II 01/09-01(and 02)/11 1
+Labuda blog 2019 1
+Johnston 2001 1
+ICC press release 2015 1
+Jalloh 2012 (citing to an opinion by Usacka) 1
 
 2. Citation counts to primary and secondary sources, by category:
 
 Peer-reviewed articles and books 65
-ICC case law 10
 ICC statements 10
+ICC case law 10
 NGO publications 9
 State acts and documents 7
 Blog posts 5
@@ -279,84 +279,84 @@ Banegas 2011 5
 McGovern 2009 4
 Author interview with Rod Rastan 4
 Ba blog 2019 4
-Straus 2015 3
-Banegas 2006 3
 Calame IHEJ 2015 3
+Banegas 2006 3
+Straus 2015 3
 ICC press release 2019 2
-Bovcon 2014 2
-Ba blog 2015b 2
-ICC Pre-Trial Chamber I 2014 2
-Cote d’Ivoire government document 2010 2
-Piccolino 2012 2
-Stahn, El Zeidy and Olasolo 2005 2
-HRW 2014 2
+Akindes, Fofana, and Kouame 2014 2
 Author interview with Jennifer Schense 2
 Cutolo 2010 2
-Akindes, Fofana, and Kouame 2014 2
 Rome Statute 2
-Rosenberg 2017a 2
-Ba 2015a 2
 Rosenberg JIC blog 2016b 2
+Ba 2015a 2
+Bovcon 2014 2
+ICC Pre-Trial Chamber I 2014 2
+Stahn, El Zeidy and Olasolo 2005 2
+Ba blog 2015b 2
+Rosenberg 2017a 2
+Piccolino 2012 2
+HRW 2014 2
+Cote d’Ivoire government document 2010 2
+Carter Center 2015 1
+Schumann 2013 1
+Akindes 2003 1
+ICC Trial Chamber I 2019 1
+Coleman and Paddack CSIS 1990 1
+France 24 (Perelman) 2015 1
+Schabas 2010b 1
+Smith 2003 1
+Forster 2013 1
+Gbagbo and Mattei autobiography 2014 1
+Freeland 2006 1
+Suma ICTJ 2019 1
+Birchall IJM 2016 1
+Maliti IJM 2016a 1
+ICC web page undated 1
+HRW 2013 1
+Heller 2016 1
+Cote d’Ivoire government document 2003 1
+ICC press release 2016c 1
+Akindes and Fofana 2011 1
+Reuters 2015 1
+Maliti IJM 2016b 1
+Rosenberg 2017b 1
+France government document (Constitution of the Fifth Republic) 1
+Chirot 2006 1
+Panaite IJM 2016b 1
+Kersten JIC blog 2016c 1
+ICC Judgment on the appeal of Cote d'Ivoire against the decision of Pre-Trial Chamber I of 11 December 2014 1
+Cote d'Ivoire government file (CEI video) 1
+Adele The New Humanitarian 2018 1
+FIDH 2014 1
+ICC Pre-Trial Chamber III 2012 1
+Rosenberg The Conversation blog 2016a 1
+Bellamy and Williams 2011 1
 Fraternite Matin 2010 1
 ICC Trial Chamber I 2018 1
-Grah Mel 2010 1
-Akindes and Fofana 2011 1
-Carroll and Henley 2004 1
-Panaite IJM 2016a 1
-Adele The New Humanitarian 2018 1
-ICC Trial Chamber I 2015 1
-Schabas 2010b 1
-Clark 2018 1
-Kersten JIC blog 2016c 1
-Goldstone EJIL blog 2019 1
-Cote d'Ivoire government file (CNRIV website) 1
-Coleman and Paddack CSIS 1990 1
-Smith 2003 1
-Panaite IJM 2016b 1
-Maliti IJM 2016b 1
-AFP 2016 1
-Cote d'Ivoire government file (CEI video) 1
-Chirot 2006 1
-FIDH 2014 1
-Soro 2005 1
-Rosenberg The Conversation blog 2016a 1
-Gbagbo and Mattei autobiography 2014 1
-Rim 2012 1
-Cote d’Ivoire government document 2003 1
-ICC web page undated 1
-Akhavan 2009 1
-Bovcon 2009 1
-France 24 (Perelman) 2015 1
-ICC Pre-Trial Chamber III 2012 1
-Freeland 2006 1
-Bellamy and Williams 2011 1
-Birchall IJM 2016 1
-Akindes 2003 1
-Grah Mel 2003 1
-Maclean Guardian 2018 1
-Author interview with Alpha Sesay 1
-ICC Diplomatic Briefing 2006 1
-Maliti IJM 2016a 1
-ICC press release 2016c 1
-Carter Center 2015 1
-Forster 2013 1
-HRW 2013 1
-Toh and Banegas 2006 1
-ICC OTP Statement 2010 1
-Marchall 2005 1
-France government document (Constitution of the Fifth Republic) 1
-ICC Trial Chamber I 2016 1
-Rosenberg 2017b 1
-HRW 2015a 1
-ICC Transcript of Trial Hearing CR2016_00664 2016  1
-Suma ICTJ 2019 1
-Schumann 2013 1
-ICC Judgment on the appeal of Cote d'Ivoire against the decision of Pre-Trial Chamber I of 11 December 2014 1
-Reuters 2015 1
-ICC Trial Chamber I 2019 1
-Heller 2016 1
-Batros Just Security blog 2019 1
 Maliti IJM 2016c 1
+Soro 2005 1
+Clark 2018 1
+Rim 2012 1
+Marchall 2005 1
+ICC Diplomatic Briefing 2006 1
+Cote d'Ivoire government file (CNRIV website) 1
+ICC Transcript of Trial Hearing CR2016_00664 2016  1
+Maclean Guardian 2018 1
+Carroll and Henley 2004 1
+ICC Trial Chamber I 2015 1
+Author interview with Alpha Sesay 1
+AFP 2016 1
+Goldstone EJIL blog 2019 1
+Grah Mel 2010 1
+Toh and Banegas 2006 1
+Bovcon 2009 1
+ICC Trial Chamber I 2016 1
+ICC OTP Statement 2010 1
+Batros Just Security blog 2019 1
+Akhavan 2009 1
+HRW 2015a 1
+Grah Mel 2003 1
+Panaite IJM 2016a 1
 
 2. Citation counts to primary and secondary sources, by category:
 
@@ -365,9 +365,9 @@ NGO publications 25
 Blog posts 12
 ICC case law 8
 Author's field interviews 7
+ICC statements 6
 Newspaper and magazine articles 6
 State acts and documents 6
-ICC statements 6
 Rome Statute 2
 Biographies 1
 
@@ -380,73 +380,73 @@ Chapter 7:
 1. Sources and citation counts:
 
 Clark 2018 9
-ICC press release on CAR II 2014 2
-HRW 2015b 2
 ICC press release 2018 2
-HRW 2016a 2
-The New Humanitarian 2003 2
-ICC press release on CAR I 2005 2
+HRW 2015b 2
 Gabon government document 2016 2
-O'Grady Foreign Policy 2016 2
+ICC press release on CAR I 2005 2
 Shingiro twitter blog 2017 2
-Sprouse blog 2017 1
-Gettleman New York Times 2009 1
-Wakabi IJM 2016  1
-Lombard 2016 1
-Nantulya ACSSS NGO Report 2017 1
-Levitsky and Way 2010 1
-Nouwen 2014 1
-HRW 2017 1
-ICC press release 2019 1
-ICC press release 2017 1
-Amnesty International 2019 1
-Clarke 2018 1
-Aradau and Hill 2013 1
-UN News 2014 1
-Just Security blog 1
-The Guardian 2017 1
-HRW 2019a 1
-Ba blog 2016b 1
-Boehme 2017 1
-LA Times 2012 1
-EU EOM Mission in Gabon 2016b 1
-HRW undated 1
-Mali government document referral letter 30712 1
-Ba African Arguments NGO 2016a 1
-Kersten 2016b 1
-Stearns Verweijen and Baaz 2013 1
-Kambale 2015 1
-Lecoq et al 2012 1
-Rice Guardian 2009 1
-UN OHCHR 2019 1
-Thurston and Lebovich ISITA NGO Report 2013 1
-Diallo Reuters 2012 1
-Kersten blog 2016a 1
-Amnesty International 2012 1
-Barnes 2011 1
+The New Humanitarian 2003 2
+ICC press release on CAR II 2014 2
+O'Grady Foreign Policy 2016 2
+HRW 2016a 2
 ICC web page (Burundi situation page) 2017 1
-Morgan blog 2012 1
-South Africa government document instrument of withdrawal 1
-Mace Liberation 2016 1
-ICC Trial Chamber III (Closing Brief of Bemba) 1
-Benjamin Time Magazine 2011 1
+Amnesty International 2012 1
 ICC press release 2018a 1
-Sandalinas 2015 1
-Ping twitter blog post 2016 1
-Hartill HRW Dispatches 2017 1
 Jollof News 2016 1
-Wing Foreign affairs 2013 1
-ICC web page (Philippines situation page) 1
-Cabato Washington Post 2019 1
-ICJ web page (landing page for Armed Activities on the Territory of the Congo) N.d 1
-ICC press release 2013 1
-ICC press release 2018b 1
+Morgan blog 2012 1
+UN News 2014 1
+Ba blog 2016b 1
+Kersten blog 2016a 1
+Mace Liberation 2016 1
+Benjamin Time Magazine 2011 1
+Wakabi IJM 2016  1
+Gettleman New York Times 2009 1
+Amnesty International 2019 1
+UN OHCHR 2019 1
 UN HRC OHCHR 2018 1
 BBC 2012 1
+ICC press release 2019 1
+Clarke 2018 1
+HRW 2017 1
+Mali government document referral letter 30712 1
+Thurston and Lebovich ISITA NGO Report 2013 1
+EU EOM Mission in Gabon 2016b 1
+Ba African Arguments NGO 2016a 1
 ICC press release 2012 1
+Barnes 2011 1
+Hartill HRW Dispatches 2017 1
 Freedom House NGO report 2018 1
-Louw and Maunganidze ISS Today 2012 1
+Kersten 2016b 1
+Nantulya ACSSS NGO Report 2017 1
+Sprouse blog 2017 1
+Just Security blog 1
 ICC press release 2004 1
+Wing Foreign affairs 2013 1
+Sandalinas 2015 1
+Cabato Washington Post 2019 1
+Nouwen 2014 1
+HRW undated 1
+ICC press release 2013 1
+Aradau and Hill 2013 1
+The Guardian 2017 1
+Lecoq et al 2012 1
+HRW 2019a 1
+South Africa government document instrument of withdrawal 1
+Lombard 2016 1
+Stearns Verweijen and Baaz 2013 1
+Levitsky and Way 2010 1
+ICC Trial Chamber III (Closing Brief of Bemba) 1
+Kambale 2015 1
+Ping twitter blog post 2016 1
+Rice Guardian 2009 1
+Boehme 2017 1
+ICJ web page (landing page for Armed Activities on the Territory of the Congo) N.d 1
+Louw and Maunganidze ISS Today 2012 1
+Diallo Reuters 2012 1
+LA Times 2012 1
+ICC press release 2017 1
+ICC web page (Philippines situation page) 1
+ICC press release 2018b 1
 
 2. Citation counts to primary and secondary sources, by category:
 
