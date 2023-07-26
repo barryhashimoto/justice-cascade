@@ -1,4 +1,4 @@
-# Script imports data on citations in States of Justice kept chapter-wise in .txt files and calculates statistics, producing a pivot table.
+# Description: uses chapter-wise citation data from States of Justice and calculates statistics from them.
 # Author: Barry Hashimoto
 # Date: July 25, 2023
 
