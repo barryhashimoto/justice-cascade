@@ -1,0 +1,13 @@
+/not_run/
+/article/
+/pdf/
+.DS_Store
+.RData
+.Rapp.history
+.Rhistory
+.Rproj.user
+*.rds
+*.Rproj
+*.dta
+*.sty
+*.texpadtmp
