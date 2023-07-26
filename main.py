@@ -194,26 +194,26 @@ with open(output_path, "a") as f:
 # Make Dataframe with pivot table of aggregate statistics in `data`, which is a 
 # list of dictionaries.
 df = pd.DataFrame(data)
-table = df.pivot_table(values='count', index='entry', columns='chapter',
-                       aggfunc='sum', margins=True, margins_name="Total")
+table = df.pivot_table(values = 'count', index = 'entry', columns = 'chapter',
+                       aggfunc = 'sum', margins = True, margins_name = "Total")
 
 # Sort the table by the `Total` column.
-table = table.sort_values('Total', ascending=True)
+table = table.sort_values('Total', ascending = True)
 
 # Replace cells with missing values with 0, cast cells to integer for printing.
 table = table.fillna(0).round().astype(int)
 
 # Stop 'entry' and 'chapter' from appearing as labels of the two table axes.
-table = table.rename_axis(None, axis=1).rename_axis(None, axis=0)
+table = table.rename_axis(None, axis=1).rename_axis(None, axis = 0)
 
 # Re-open output file, add pivot table at top, cast to string for printing.
 with open(output_path, "r+") as f:
     content = f.read()
     f.seek(0)
-    print('Aggregate citation count statistics, by chapter\n', file=f)
-    print(table.to_string(max_rows=None), file=f)
-    makelines(file=f)
-    print(content, file=f)
+    print('Aggregate citation count statistics, by chapter\n', file = f)
+    print(table.to_string(max_rows = None), file = f)
+    makelines(file = f)
+    print(content, file = f)
 
 # Save a table of the results as a .tex file.
 tex_table_name = 'output_pivot_table.tex'
