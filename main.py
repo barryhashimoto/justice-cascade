@@ -1,4 +1,4 @@
-# Description: Calculates statistics and a pivot table for the citation analysis in the article, "The
+# Description: Calculates statistics and a makes pivot table for the citation analysis in the article, "The
 # International Criminal Court and the Justice Cascade," using citation data taken from States of Justice.
 #
 # Author: Barry Hashimoto
