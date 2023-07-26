@@ -197,7 +197,7 @@ with open(output_path, "r+") as f:
     makelines(file = f)
     print(content, file = f)
 
-# Save a latex table of the results.
+# Save a LaTeX table of the results as a .tex file.
 tex_table_name = 'output_pivot_table.tex'
 with open(os.path.join(dir_path, tex_table_name), 'w') as f:
     f.write(table.style.to_latex())
