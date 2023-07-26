@@ -188,7 +188,7 @@ table = table.fillna(0).round().astype(int)
 # Stop 'entry' and 'chapter' from appearing as labels of the two table axes.
 table = table.rename_axis(None, axis = 1).rename_axis(None, axis = 0)
 
-# Re-open the file of results and add the (wide) aggregate table at the top as a string to get full printing.
+# Re-open the file of results and add the aggregate table at the top, casting as string for wide printing.
 with open(output_path, "r+") as f:
     content = f.read()
     f.seek(0)
@@ -197,7 +197,7 @@ with open(output_path, "r+") as f:
     makelines(file = f)
     print(content, file = f)
 
-# Save a LaTeX table of the results as a .tex file.
+# Save a table of the results as a .tex file.
 tex_table_name = 'output_pivot_table.tex'
 with open(os.path.join(dir_path, tex_table_name), 'w') as f:
     f.write(table.style.to_latex())
