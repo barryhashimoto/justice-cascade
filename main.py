@@ -3,7 +3,7 @@
 # citation data recorded from selected chapters of the book, States of Justice.
 #
 # Author: Barry Hashimoto
-# Date: July 25, 2023
+# Date: July 27, 2023
 
 # Libraries
 import os
@@ -12,12 +12,12 @@ import sys
 import pandas as pd
 
 # Function for separating information printed to the terminal with a long line.
-def makelines(file=None):
+def makelines(file = None):
     N = 100
     if file is None:
         print('-' * N + '\n')
     else:
-        print('-' * N + '\n', file=file)
+        print('-' * N + '\n', file = file)
 
 # Initialize a list to hold aggregate citation data.
 data = []
